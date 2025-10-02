@@ -1,0 +1,12 @@
+Data Types in Java :
+Primitive types  : Integers ,floting point number ,boolen, characters
+Refrence type : classes , annotations,interface,enumeration, arays
+
+Important point :
+A java variable is a piece of memory that contan a data value .
+Java is a strongly  types language  : i.e each variable has a type ;
+
+vaibale is identify by the combination of indentifier and a type  ;
+
+we can declear varivale with var keyword  - In this case type of the variabe will be defined by the compiller .
+ all variale have a scope which define there visibility .
