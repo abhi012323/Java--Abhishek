@@ -12,7 +12,7 @@ public class str {
     }
     
     static String myGreet(String name){
-        String personal = "Hello" + name ;
+        String personal = "Hello" +""+ name ;
         return personal;
     }
 }
